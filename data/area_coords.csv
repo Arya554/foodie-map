@@ -1,0 +1,328 @@
+area,city,lat,lon
+Ambavadi,Ahmedabad,23.0804086,72.6340502
+Ashram Road,Ahmedabad,23.0182638,72.5682748
+Astodia,Ahmedabad,23.0168301,72.5909745
+Bapunagar,Ahmedabad,23.0324369,72.6313566
+Bhadra,Ahmedabad,23.0238245,72.5812092
+Bodakdev,Ahmedabad,23.0445921,72.517344
+C G Road,Ahmedabad,23.1053509,72.597315
+Ellis Bridge,Ahmedabad,23.0223165,72.5753159
+Gulbai Tekra,Ahmedabad,23.0265739,72.5489628
+Gurukul,Ahmedabad,23.0457058,72.5268056
+Isanpur,Ahmedabad,22.9811295,72.6012948
+Kalupur,Ahmedabad,23.0263312,72.601
+Kankaria,Ahmedabad,23.0017632,72.5940885
+Lal Darwaja,Ahmedabad,23.0245758,72.5784324
+Mani Nagar,Ahmedabad,,
+Memnagar,Ahmedabad,23.0516973,72.535169
+Naranpura,Ahmedabad,23.0567133,72.5508575
+Navrangpura,Ahmedabad,23.0359998,72.5643429
+Paldi,Ahmedabad,23.0145531,72.5635432
+Prahlad Nagar,Ahmedabad,22.999096,72.504696
+Satellite,Ahmedabad,23.0230941,72.5364734
+Shahibagh,Ahmedabad,,
+Shahpur,Ahmedabad,23.0392509,72.5810332
+Shivalik Yash,Ahmedabad,,
+Sola,Ahmedabad,23.069237,72.5111307
+Subhash Bridge,Ahmedabad,23.0611627,72.5858628
+Vastrapur,Ahmedabad,23.0400861,72.5290418
+BTM,Bangalore,12.9112758,77.6045654
+Banaswadi,Bangalore,13.0141618,77.6518539
+Basavanagudi,Bangalore,12.9417261,77.5755021
+Basaveshwara Nagar,Bangalore,12.9933829,77.5389467
+Brigade Road,Bangalore,12.9672577,77.606463
+CV Raman Nagar,Bangalore,12.9850987,77.6631173
+Church Street,Bangalore,12.9749116,77.6052558
+Commercial Street,Bangalore,12.9822157,77.6082513
+Cunningham Road,Bangalore,12.990434,77.5908272
+Domlur,Bangalore,12.9624669,77.6381958
+Frazer Town,Bangalore,12.9975851,77.6136744
+Garuda Mall,Bangalore,12.970027,77.6096659
+HBR Layout,Bangalore,13.031992,77.6280789
+HSR,Bangalore,12.9116225,77.6388622
+Indiranagar,Bangalore,12.9732913,77.6404672
+JP Nagar,Bangalore,12.9096941,77.5866067
+Jayanagar,Bangalore,12.9292731,77.5824229
+Kammanahalli,Bangalore,13.0148544,77.6382029
+Koramangala 4th Block,Bangalore,12.9327778,77.6294052
+Koramangala 5th Block,Bangalore,12.9348429,77.6189768
+Koramangala 6th Block,Bangalore,12.9390255,77.6238477
+Koramangala 7th Block,Bangalore,12.9364846,77.6134783
+Lavelle Road,Bangalore,12.9722287,77.5986661
+Lido Mall,Bangalore,12.9735715,77.6203605
+MG Road,Bangalore,12.9755264,77.6067902
+Majestic,Bangalore,12.9779079,77.5723936
+Malleshwaram,Bangalore,13.0027353,77.5703253
+Mantri Square,Bangalore,12.9915291,77.5707558
+Nagawara,Bangalore,13.0422794,77.6248577
+New BEL Road,Bangalore,13.0317368,77.5701363
+Orion East,Bangalore,13.0010747,77.6326067
+Rajajinagar,Bangalore,13.0005359,77.5496996
+Residency Road,Bangalore,12.9666878,77.5987471
+Richmond Road,Bangalore,12.9657615,77.6038636
+Sanjay Nagar,Bangalore,12.9578658,77.6958748
+Seshadripuram,Bangalore,12.9946631,77.5747183
+Shanti Nagar,Bangalore,12.9555367,77.5924278
+St. Marks Road,Bangalore,12.9727668,77.6013071
+Thippasandra,Bangalore,12.8744383,77.5579029
+Vijay Nagar,Bangalore,12.9173423,77.5961254
+Wilson Garden,Bangalore,12.9489339,77.5968273
+Alwarpet,Chennai,13.0338602,80.2545491
+Aminijikarai,Chennai,,
+Anna Nagar East,Chennai,13.0846503,80.2195323
+Anna Nagar West,Chennai,13.0940791,80.1922978
+Anna Salai,Chennai,13.0153827,80.2249598
+Arumbakkam,Chennai,13.074371,80.2081312
+Choolaimedu,Chennai,13.0666287,80.2305198
+Egmore,Chennai,13.0728321,80.2576906
+George Town,Chennai,13.0920917,80.2822426
+Gopalapuram,Chennai,13.0497324,80.2582028
+Kilpauk,Chennai,13.0832149,80.2379864
+Kolathur,Chennai,13.1236545,80.2128848
+Kora Food Street,Chennai,,
+Mylapore,Chennai,13.0316473,80.2700166
+Nungambakkam,Chennai,13.0620626,80.240487
+Park Town,Chennai,13.0863491,80.2727321
+Parrys,Chennai,13.0888351,80.2903703
+Perambur,Chennai,13.1121242,80.245022
+Purasavakkam,Chennai,,
+Royapettah,Chennai,13.0554718,80.2639706
+Royapuram,Chennai,13.1042898,80.2936125
+T. Nagar,Chennai,13.0378289,80.231836
+Thousand Lights,Chennai,13.0585155,80.2587833
+Triplicane,Chennai,13.0604285,80.2750704
+Vepery,Chennai,13.0842952,80.2622738
+Washermenpet,Chennai,13.1116559,80.2847452
+Bardez,Goa,,
+Candolim,Goa,,
+Mall De Goa,Goa,,
+Panaji,Goa,15.4989946,73.8282141
+Penha de Franca,Goa,15.5177842,73.8452053
+Porvorim,Goa,,
+Saligao,Goa,,
+12th Square Building,Hyderabad,,
+Abids,Hyderabad,17.3894783,78.477182
+Amberpet,Hyderabad,17.3861776,78.5114709
+Attapur,Hyderabad,17.3672244,78.4307278
+Banjara Hills,Hyderabad,17.4177464,78.4399014
+Basheer Bagh,Hyderabad,17.4053896,78.4776447
+Begum Bazaar,Hyderabad,17.3730788,78.4705549
+Boiguda,Hyderabad,17.4286363,78.4969962
+Chandrayanagutta,Hyderabad,17.3757979,78.4710462
+Charminar,Hyderabad,17.3616024,78.4746421
+Charminar Area,Hyderabad,,
+Dilsukhnagar,Hyderabad,17.3684433,78.5228597
+Falaknuma,Hyderabad,17.3326604,78.4751984
+Ghansi Bazaar,Hyderabad,17.3636816,78.4652776
+Himayath Nagar,Hyderabad,17.3984765,78.4864741
+Kacheguda,Hyderabad,17.389311,78.4992403
+Khairatabad,Hyderabad,17.4129744,78.4610582
+Kothapet,Hyderabad,17.3764207,78.5409758
+Koti,Hyderabad,17.3847309,78.4836642
+Lakdikapul,Hyderabad,17.402857,78.4661403
+Langer Houz,Hyderabad,17.37331,78.41387
+MPM Mall,Hyderabad,,
+Malakpet,Hyderabad,17.3736706,78.4996484
+Masab Tank,Hyderabad,17.4029622,78.450754
+Meerpet,Hyderabad,17.4546432,78.5715499
+Mehdipatnam,Hyderabad,17.3942627,78.4342514
+Musheerabad,Hyderabad,17.4191423,78.4985732
+Nallakunta,Hyderabad,17.3975005,78.50557
+Nampally,Hyderabad,17.3923995,78.4701477
+Narayanguda,Hyderabad,17.3981159,78.4885006
+RTC X roads,Hyderabad,17.4070321,78.4968023
+Saroor Nagar,Hyderabad,17.3564017,78.5318948
+Somajiguda,Hyderabad,17.4255053,78.4585197
+Taj Mahal Hotel,Hyderabad,17.3918823,78.4769645
+The Next Galleria Mall,Hyderabad,,
+Tolichowki,Hyderabad,17.4002904,78.4118051
+Yousufguda,Hyderabad,17.4387499,78.4279866
+Ajmer Highway,Jaipur,,
+Amer Road,Jaipur,26.9403881,75.837705
+Axis Mall,Jaipur,,
+Bais Godam,Jaipur,26.9017919,75.7895065
+Bani Park,Jaipur,26.9316554,75.7958012
+Bapu Nagar,Jaipur,26.8850735,75.8009576
+Brahmpuri,Jaipur,26.7390376,76.0391235
+C Scheme,Jaipur,26.9212858,75.792766
+Crystal Palm Mall,Jaipur,,
+Durgapura,Jaipur,26.855093,75.7870163
+Gopalbari,Jaipur,26.917067,75.8004209
+Gopalpura,Jaipur,26.8738221,75.7780496
+Jawahar Nagar,Jaipur,26.8930427,75.8361965
+Jhotwara,Jaipur,26.9585861,75.7527694
+Khatipura Road,Jaipur,26.9380199,75.7582842
+Lal Kothi,Jaipur,26.8814555,75.7991292
+MI Road,Jaipur,26.9160258,75.8015394
+Malviya Nagar,Jaipur,26.8593668,75.8098088
+Mansarovar,Jaipur,26.8756076,75.7509072
+Masala Chowk,Jaipur,26.9102996,75.8205896
+Pink City,Jaipur,26.9246636,75.818417
+Pink Square Mall,Jaipur,26.9032172,75.8367775
+Raja Park,Jaipur,26.8966396,75.8271072
+Shastri Nagar,Jaipur,26.9460408,75.8023138
+Sikar Road,Jaipur,26.9788561,75.7736747
+Sindhi Camp,Jaipur,26.9224737,75.799635
+Sodala,Jaipur,26.9020365,75.7735936
+Tonk Phatak,Jaipur,26.8776992,75.7939487
+Vaishali Nagar,Jaipur,26.9095703,75.7391732
+Vidhyadhar Nagar,Jaipur,26.9626226,75.7723631
+Centre Square Mall,Kochi,,
+Chittoor Road,Kochi,10.0156822,76.2762633
+Edappally,Kochi,10.025487,76.3079848
+Elamakkara,Kochi,10.0129401,76.2831209
+Ernakulam City,Kochi,10.0004745,76.3495561
+Fort Kochi,Kochi,9.967569,76.2421901
+GCDA Shopping Complex,Kochi,10.0006154,76.300332
+Kacheripady,Kochi,9.9861492,76.2840501
+Kadavanthra,Kochi,,
+Kaloor,Kochi,10.1467961,76.2517878
+MG Road,Kochi,9.9824891,76.2829173
+Marad,Kochi,,
+Marine Drive,Kochi,,
+Mattancherry,Kochi,9.9589134,76.2588346
+Palarivattom,Kochi,10.0029488,76.3059882
+Pallimukku,Kochi,,
+Palluruthy,Kochi,9.9212103,76.2740626
+Panampilly Nagar,Kochi,9.9645738,76.294145
+Ravipuram,Kochi,9.961558,76.2934625
+Thopumpady,Kochi,,
+Tripunithura,Kochi,9.914987,76.3429538
+Vennala,Kochi,9.9983003,76.3251702
+Vyttila,Kochi,9.9636706,76.3181282
+Bara Bazar,Kolkata,22.5801792,88.3528098
+Beliaghata,Kolkata,22.5506557,88.4039172
+Bow Bazar,Kolkata,22.576213,88.3660201
+Chowringhee,Kolkata,22.5590807,88.3506147
+City Centre 1,Kolkata,22.5881858,88.4076548
+College Street,Kolkata,22.5780412,88.3645469
+Das Naagar,Kolkata,,
+Dobson Road,Kolkata,22.5875723,88.3377383
+Dum Dum,Kolkata,22.6211141,88.3928973
+Entally,Kolkata,,
+Esplanade,Kolkata,22.563292,88.3503566
+Girish Park,Kolkata,22.5871445,88.3629415
+Hatibagan,Kolkata,22.5949572,88.3709282
+Kankurgachi,Kolkata,22.5799309,88.3905646
+Kasba,Kolkata,22.5044355,88.3721663
+Lake Town,Kolkata,22.6057276,88.4029611
+Liluah,Kolkata,22.6209027,88.3394035
+Maniktala,Kolkata,22.5880896,88.3852834
+New Market Area,Kolkata,22.8377085,88.6075862
+Park Circus Area,Kolkata,,
+Park Street Area,Kolkata,22.6111681,88.4671622
+Picnic Garden,Kolkata,,
+Ruby Hospital Area,Kolkata,,
+Sealdah Area,Kolkata,,
+Sector 1,Kolkata,22.5946735,88.4054907
+Sector 4,Kolkata,22.598482,88.4119062
+Shalimar,Kolkata,22.5551538,88.3153898
+Shibpur,Kolkata,22.5685792,88.2942109
+Shobha Bazar,Kolkata,22.5940341,88.362514
+Tangra,Kolkata,22.5565107,88.3795946
+Theatre Road,Kolkata,22.5457406,88.3489974
+Topsia,Kolkata,22.5330009,88.3963939
+Ultadanga,Kolkata,22.5961275,88.3852833
+Wellesley,Kolkata,22.5556488,88.3571253
+Aliganj,Lucknow,26.90515,80.9479913
+Charbagh,Lucknow,26.8334969,80.9264143
+Chowk,Lucknow,26.8677148,80.9042142
+Gomti Nagar,Lucknow,26.8611743,81.0039196
+Hazratganj,Lucknow,26.8475285,80.9432003
+Indira Nagar,Lucknow,26.8823182,80.9900344
+Jankipuram,Lucknow,26.9326839,80.9396394
+Jopling Road,Lucknow,26.8558151,80.9589326
+Kaiserbagh,Lucknow,26.8498749,80.9314544
+Khurram Nagar,Lucknow,26.884326,80.9713083
+Lalbagh,Lucknow,26.7908341,80.8701804
+Mahanagar,Lucknow,26.8744534,80.9581781
+Nirala Nagar,Lucknow,26.8790069,80.9357084
+Rajajipuram,Lucknow,26.8410455,80.8525902
+Sahara Ganj Mall,Lucknow,26.8552305,80.9462825
+Triveni Nagar,Lucknow,26.885001,80.9297077
+Bandra Kurla Complex,Mumbai,19.0606629,72.8546797
+Byculla,Mumbai,18.9766219,72.8327936
+Carter Road,Mumbai,19.0688931,72.8228587
+Chembur,Mumbai,19.054818,72.8979713
+Dadar East,Mumbai,19.0162531,72.8522274
+Dadar Shivaji Park,Mumbai,19.0238526,72.8393878
+Dadar West,Mumbai,19.0238887,72.8382236
+Hill Road,Mumbai,19.0554338,72.8751508
+Khar,Mumbai,19.0682411,72.8400412
+Kurla,Mumbai,19.0652797,72.8793805
+Linking Road,Mumbai,19.088281,72.8342638
+Lower Parel,Mumbai,18.99568,72.8302756
+Mahalaxmi,Mumbai,19.105218,72.828165
+Mahim,Mumbai,19.0427721,72.8407925
+Matunga East,Mumbai,19.0261579,72.8520846
+Matunga West,Mumbai,19.0317259,72.8433917
+Pali Hill,Mumbai,19.0649126,72.8270326
+Parel,Mumbai,18.988459,72.8393913
+Prabhadevi,Mumbai,19.2189384,72.8341349
+Sion,Mumbai,19.0465213,72.8632834
+Star Mall,Mumbai,19.0228579,72.8419863
+Wadala,Mumbai,19.0210175,72.8568955
+Worli,Mumbai,18.9988405,72.8170327
+Connaught Place,New Delhi,28.6317695,77.2193804
+Cyber Hub,New Delhi,,
+Delhi University-GTB Nagar,New Delhi,,
+Geeta Colony,New Delhi,28.6482103,77.2688562
+Gole Market,New Delhi,28.63375,77.2055952
+Greater Kailash 1 (GK1),New Delhi,,
+Inderlok,New Delhi,,
+Kamla Nagar,New Delhi,28.6840174,77.2023556
+Karol Bagh,New Delhi,28.6378452,77.2113764
+Lajpat Nagar 2,New Delhi,,
+Laxmi Nagar,New Delhi,28.576794,77.2062778
+Mukherjee Nagar,New Delhi,,
+Pandav Nagar,New Delhi,,
+Rajinder Nagar,New Delhi,28.6357855,77.1841395
+Rajouri Garden,New Delhi,28.6484714,77.1204602
+West Patel Nagar,New Delhi,28.6517441,77.0931291
+Aundh,Pune,18.5618834,73.8101957
+Bibvewadi,Pune,18.4781739,73.862105
+Budhwar Peth,Pune,18.5175599,73.858037
+Bund Garden Road,Pune,18.5264961,73.8791058
+Camp Area,Pune,,
+Deccan Gymkhana,Pune,18.5158926,73.84116
+Dhankawadi,Pune,18.4654198,73.850152
+Dhole Patil Road,Pune,18.534898,73.8767171
+East Street,Pune,18.5102147,73.8799858
+Erandwane,Pune,18.5087486,73.8318432
+FC Road,Pune,18.5150117,73.8422183
+Fatima Nagar,Pune,18.5045098,73.902129
+JM Road,Pune,18.5191235,73.8450956
+Karve Nagar,Pune,18.4894205,73.821347
+Katraj,Pune,18.4536792,73.8563196
+Kondhwa,Pune,18.4779905,73.8940627
+Koregaon Park,Pune,18.5366225,73.8932738
+Kothrud,Pune,18.5072618,73.8056676
+Kumar Pacific Mall,Pune,18.501249,73.8723727
+Law College Road,Pune,18.5183802,73.8302027
+MG Road,Pune,18.50643,73.8785414
+R Deccan Mall,Pune,18.5164123,73.8424415
+Rasta Peth,Pune,18.5196867,73.8649373
+Sadashiv Peth,Pune,18.5107764,73.8502149
+Salunkhe Vihar Road,Pune,18.4816492,73.8981687
+Senapati Bapat Road,Pune,,
+Shaniwar Peth,Pune,18.5192839,73.8524863
+Shukrawar Peth,Pune,18.5113537,73.8540109
+Sinhgad Road,Pune,18.4644244,73.8323998
+The Pavillion,Pune,18.5337227,73.8296243
+Vishrantwadi,Pune,18.57263,73.87825
+Wadgaon Sheri,Pune,18.548967,73.9149296
+Yerawada,Pune,18.5586854,73.8954953
+Amanaka,Raipur,21.2517898,81.5985313
+Civil Lines,Raipur,,
+Devendra Nagar,Raipur,21.2579634,81.6393689
+Govind Nagar,Raipur,,
+Jawahar Nagar,Raipur,,
+Kota,Raipur,21.2579497,81.5973318
+Mahaveer Nagar,Raipur,21.0482314,81.7389621
+Moudhapara,Raipur,,
+Mowa,Raipur,21.2684799,81.6718031
+Purena,Raipur,21.198736,81.429479
+Samta Colony,Raipur,,
+Shankar Nagar,Raipur,21.2484764,81.6609145
+Tatibandh,Raipur,21.2579577,81.5715626
+Tikrapara,Raipur,21.2206286,81.6415295
