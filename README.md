@@ -2,14 +2,14 @@
 
 An interactive Streamlit dashboard that analyses Zomato restaurant data from 13 Indian cities.
 
-**Live demo:** YOUR_STREAMLIT_LINK
+**Live demo:** (https://foodie-map-4aai57falftj5gcwnbrgkz.streamlit.app/Neighborhood_Analysis)
 
 ## Problem statement
 Does paying more get you a better-rated restaurant? Which cities and areas are rated best, and how much
 can we trust a rating that has few votes?
 
 ## Data
-- **Source:** YOUR_KAGGLE_DATASET_NAME and link (snapshot, not live). Licence: YOUR_LICENCE (check the dataset page).
+- **Source:** enhanced_zomato_dta_clean from kaggle 
 - 123,657 menu-item rows, grouped into **914 restaurants** across 13 cities.
 - Fields used: dining rating, dining votes, cuisine, area, city, dish prices.
 - **Cleaning:** four Bengaluru areas (Ulsoor, Banaswadi, Magrath Road, Malleshwaram) were wrongly entered as
@@ -43,4 +43,4 @@ sarcasm. Findings describe this dataset, not every restaurant.
 ## Tech stack
 Python, Streamlit, Pandas, Plotly, Folium
 
-Built by YOUR_NAME
+Built by Sakshi
